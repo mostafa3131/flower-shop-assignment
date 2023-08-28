@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+
+}
+
+/* header container style start */
+
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+    width: 100%;
+    height: 800px;
+}
+
+.container {
+
+    display: flex;
+    align-items: center;
+    padding: 0px 150px 0px 150px;
+
+}
+
+.header-greeting {
+    width: 560px;
+    color: #272727;
+    font-size: 65px;
+    font-weight: 700;
+
+}
+
+.header-info {
+    width: 505px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 30px;
+
+}
+
+
+/* Primary Button Style Start */
+
+.primary-btn {
+
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-top: 30px;
+
+}
