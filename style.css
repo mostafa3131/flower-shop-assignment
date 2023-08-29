@@ -155,6 +155,7 @@ body {
     display: flex;
     align-items: center;
     padding: 0px 150px 0px 150px;
+    margin-top: 150px;
 }
 
 .deal-title {
